@@ -1,3 +1,1 @@
-CV
-RS school
-https://DenisDiscord.github.io/rsschool-cv/cv
+https://denisdiscord.github.io/rsschool-cv/cv
