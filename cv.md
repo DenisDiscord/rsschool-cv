@@ -5,3 +5,8 @@
 4. Example of my work with HTML: <h1>Hello, World!</h1>
 5. I study at RS School, stage 0.
 6. I studied English at school, but i have to study better.
+<main> <!-- Определение основной части страницы -->
+    <article> <!-- CROSS CHECK CV -->
+        <header> <!-- CV -->
+            <h1>DZIANIS SMALIANKOU</h1>
+        </header>
